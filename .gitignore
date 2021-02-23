@@ -1,8 +1,0 @@
-node_modules
-arbitrageur.txt
-.env
-packages/hardhat/node_modules
-packages/hardhat/.env
-packages/hardhat/cache
-packages/hardhat/artifacts
-packages/hardhat/.openzeppelin/unknown-*.json
